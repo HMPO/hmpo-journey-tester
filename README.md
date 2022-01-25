@@ -40,6 +40,7 @@ A journey is a JSON file containing the following sections:
             `stopOnFail` - Stop journey if there are any axe errors (default: true)
             `simple` - Simplify axe output (default: true)
             `ignore` - Object of ids to ignore, with optional matching paterns
+                `path` - Pattern to match offending url path
                 `html` - Pattern to match offending html opening tag
                 `summary` - Pattern to match description of error
                 `target` - Pattern to match reported target element
