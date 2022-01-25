@@ -14,20 +14,20 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "debug": "^4.3.2",
-    "deep-clone-merge": "^1.5.2",
+    "debug": "^4.3.3",
+    "deep-clone-merge": "^1.5.3",
     "json5": "^2.2.0",
     "jsonfile": "^6.1.0",
     "lodash": "^4.17.21",
     "mkdirp": "^1.0.4",
     "path-to-regexp": "^6.2.0",
-    "yargs": "^17.2.1"
+    "yargs": "^17.3.1"
   },
   "devDependencies": {
-    "@axe-core/puppeteer": "^4.3.1",
-    "@axe-core/webdriverjs": "^4.3.1",
-    "eslint": "^8.1.0",
-    "puppeteer": "^11.0.0",
-    "selenium-webdriver": "^4.0.0"
+    "@axe-core/puppeteer": "^4.3.2",
+    "@axe-core/webdriverjs": "^4.3.2",
+    "eslint": "^8.7.0",
+    "puppeteer": "^13.1.2",
+    "selenium-webdriver": "^4.1.1"
   }
 }
